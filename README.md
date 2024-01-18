@@ -55,7 +55,7 @@ Introducing [MyMagicCollection.com](https://www.mymagiccollection.com), your ult
   Also store older prices at certain dates for cards to show the user how things have changed over time.
 
 ## Photos:
-![pic1](web1.png)
-![pic2](web2.png)
+![pic 1](web1.png)
+![pic 2](web2.png)
  
   
