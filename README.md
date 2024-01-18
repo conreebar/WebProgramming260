@@ -56,6 +56,6 @@ Introducing [MyMagicCollection.com](https://www.mymagiccollection.com), your ult
 
 ## Photos:
 ![pic1](web1.png)
-![pic2](web 2.png)
+![pic2](web2.png)
  
   
